@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3xploit10
-- 👀 I’m interested in Penetration Testing, malware analysis, threat hunting & incident response
+- 👀 I’m interested in Penetration Testing, Network Security, IAM, PAM, Endpoint Security, malware analysis, threat hunting & incident response
 - 🌱 I’m currently learning malware analysis
-- 💞️ I’m looking to collaborate on penetration testing & threat hunting
+- 💞️ I’m looking to collaborate on penetration testing & threat-hunting
 - 📫 How to reach me @msfconsole3 on twitter
 
 <!---
